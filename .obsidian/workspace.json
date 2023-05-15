@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cec78fb15f721196",
+        "id": "e5a6108b94240894",
         "type": "tabs",
         "children": [
           {
-            "id": "8f860d039f7cd6ad",
+            "id": "9eeba1f04f82331d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hidden/secret.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hidden/secret.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hidden/secret.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hidden/secret.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f860d039f7cd6ad",
+  "active": "9eeba1f04f82331d",
   "lastOpenFiles": [
+    "Hidden/secret.md",
     "Databases/db3.md",
     "Databases/db2.md",
     "Databases/db1.md",
-    "Hidden/secret.md",
     "Hidden",
     "Databases"
   ]
