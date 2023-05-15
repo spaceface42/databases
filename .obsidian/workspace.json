@@ -11,8 +11,12 @@
             "id": "9eeba1f04f82331d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Databases/db4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Databases/db4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Databases/db4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Databases/db4.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "9eeba1f04f82331d",
   "lastOpenFiles": [
+    "Hidden/secret2.md",
+    "Databases/db4.md",
     "Hidden/secret.md",
     "Databases/db3.md",
     "Databases/db2.md",
