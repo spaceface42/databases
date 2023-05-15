@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e5a6108b94240894",
+        "id": "95add831c8326e09",
         "type": "tabs",
         "children": [
           {
-            "id": "9eeba1f04f82331d",
+            "id": "285384562014a4ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/db4.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/db4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/db4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Databases/db4.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9eeba1f04f82331d",
+  "active": "285384562014a4ce",
   "lastOpenFiles": [
-    "Hidden/secret2.md",
     "Databases/db4.md",
+    "Users/Spaceface/spaceface secret.md",
+    "Users/Other/other secret.md",
+    "Users/Other",
+    "Users/Spaceface",
+    "Users",
+    "Hidden/secret2.md",
     "Hidden/secret.md",
     "Databases/db3.md",
     "Databases/db2.md",
